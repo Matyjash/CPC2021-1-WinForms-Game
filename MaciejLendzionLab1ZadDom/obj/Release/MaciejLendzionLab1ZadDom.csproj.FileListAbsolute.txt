@@ -1,0 +1,11 @@
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\bin\Release\MaciejLendzionLab1ZadDom.exe.config
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\bin\Release\MaciejLendzionLab1ZadDom.exe
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\bin\Release\MaciejLendzionLab1ZadDom.pdb
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.csprojAssemblyReference.cache
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.Properties.Resources.resources
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.csproj.GenerateResource.cache
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.csproj.CoreCompileInputs.cache
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.exe
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.pdb
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.FormInfoWindow.resources
+C:\Users\Lengom\source\repos\MaciejLendzionLab1ZadDom\MaciejLendzionLab1ZadDom\obj\Release\MaciejLendzionLab1ZadDom.FormMain.resources
